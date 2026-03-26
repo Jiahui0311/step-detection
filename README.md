@@ -1,6 +1,5 @@
 # step-detection
-MATLAB app for step detection from AP trunk IMU signal
-Supports precise turn detection and manual addition or removal of incorrectly detected steps.
+MATLAB app for step detection from AP trunk IMU signal that supports precise turn detection and manual addition or removal of incorrectly detected steps.
 
 ## Author
 Jiahui Wang, PhD Candidate, KU Leuven
